@@ -1,7 +1,9 @@
 # 💧 Liquidity-Pool
 
-- This project demonstrates a **Solidity smart contract** that integrates directly with Uniswap V2-style decentralized exchanges (tested on Arbitrum mainnet fork).  It provides a streamlined interface for:  **Swapping tokens, Adding liquidity with a single token or two tokens and Removing liquidity from a pool**.
-The contract uses **OpenZeppelin’s SafeERC20** library to ensure safe token interactions.
+- This project demonstrates a **Solidity smart contract** that integrates directly with Uniswap V2-style decentralized exchanges (tested on Arbitrum mainnet fork).
+
+  It provides a streamlined interface for:  **Swapping tokens, Adding liquidity with a single token or two tokens and Removing liquidity from a pool**.
+  The contract uses **OpenZeppelin’s SafeERC20** library to ensure safe token interactions.
 
 # 🔑 Key Features
 
